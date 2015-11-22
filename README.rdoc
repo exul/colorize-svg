@@ -1,0 +1,5 @@
+== README
+
+A small rails app that shows you how to colorize SVGs via SASS.
+
+You can find a blog post about it on https://blog.panter.ch/2015/11/27/colorize-svgs-with-sass.html
